@@ -1,0 +1,53 @@
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.Models\bin\Debug\MidTermSolution.Models.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.Models\bin\Debug\MidTermSolution.Models.pdb
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.pdb
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.Models\bin\Debug\MidTermSolution.Models.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.Models\bin\Debug\MidTermSolution.Models.pdb
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.csprojResolveAssemblyReference.cache
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.pdb
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.Models\bin\Debug\MidTermSolution.Models.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.Models\bin\Debug\MidTermSolution.Models.pdb
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.csprojResolveAssemblyReference.cache
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.pdb
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.Models\bin\Debug\MidTermSolution.Models.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.Models\bin\Debug\MidTermSolution.Models.pdb
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.pdb
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.Models\bin\Debug\MidTermSolution.Models.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.Models\bin\Debug\MidTermSolution.Models.pdb
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.Models\bin\Debug\MidTermSolution.Models.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.Models\bin\Debug\MidTermSolution.Models.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.csprojResolveAssemblyReference.cache
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.Models\bin\Debug\MidTermSolution.Models.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.Models\bin\Debug\MidTermSolution.Models.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.pdb
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.Models\bin\Debug\MidTermSolution.Models.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.Models\bin\Debug\MidTermSolution.Models.pdb
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.Models\bin\Debug\MidTermSolution.Models.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.Models\bin\Debug\MidTermSolution.Models.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.pdb
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.Models\bin\Debug\MidTermSolution.Models.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.Models\bin\Debug\MidTermSolution.Models.pdb
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.csprojResolveAssemblyReference.cache
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.Models\bin\Debug\MidTermSolution.Models.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.Models\bin\Debug\MidTermSolution.Models.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.Models\bin\Debug\MidTermSolution.Models.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.Models\bin\Debug\MidTermSolution.Models.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.csprojResolveAssemblyReference.cache
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.Models\obj\Debug\MidTermSolution.Models.pdb

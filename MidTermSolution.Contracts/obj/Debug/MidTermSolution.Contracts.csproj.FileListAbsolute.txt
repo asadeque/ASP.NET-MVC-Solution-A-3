@@ -1,0 +1,51 @@
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.Contracts\bin\Debug\MidTermSolution.Contracts.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.Contracts\bin\Debug\MidTermSolution.Contracts.pdb
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.pdb
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.Contracts\bin\Debug\MidTermSolution.Contracts.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.Contracts\bin\Debug\MidTermSolution.Contracts.pdb
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.pdb
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.Contracts\bin\Debug\MidTermSolution.Contracts.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.Contracts\bin\Debug\MidTermSolution.Contracts.pdb
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.pdb
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.Contracts\bin\Debug\MidTermSolution.Contracts.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.Contracts\bin\Debug\MidTermSolution.Contracts.pdb
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.pdb
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.Contracts\bin\Debug\MidTermSolution.Contracts.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.Contracts\bin\Debug\MidTermSolution.Contracts.pdb
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.Contracts\bin\Debug\MidTermSolution.Contracts.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.Contracts\bin\Debug\MidTermSolution.Contracts.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.csprojResolveAssemblyReference.cache
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.Contracts\bin\Debug\MidTermSolution.Contracts.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.Contracts\bin\Debug\MidTermSolution.Contracts.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.pdb
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.Contracts\bin\Debug\MidTermSolution.Contracts.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.Contracts\bin\Debug\MidTermSolution.Contracts.pdb
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.Contracts\bin\Debug\MidTermSolution.Contracts.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.Contracts\bin\Debug\MidTermSolution.Contracts.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.pdb
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.Contracts\bin\Debug\MidTermSolution.Contracts.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.Contracts\bin\Debug\MidTermSolution.Contracts.pdb
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.csprojResolveAssemblyReference.cache
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.Contracts\bin\Debug\MidTermSolution.Contracts.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.Contracts\bin\Debug\MidTermSolution.Contracts.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.Contracts\bin\Debug\MidTermSolution.Contracts.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.Contracts\bin\Debug\MidTermSolution.Contracts.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.csprojResolveAssemblyReference.cache
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.Contracts\obj\Debug\MidTermSolution.Contracts.pdb

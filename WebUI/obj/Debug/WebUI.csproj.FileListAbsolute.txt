@@ -1,0 +1,1046 @@
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\WebUI.dll.config
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\WebUI.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\WebUI.pdb
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Antlr3.Runtime.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\EntityFramework.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Owin.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\MidTermSolution.DAL.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\MidTermSolution.Models.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Newtonsoft.Json.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Owin.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\System.Web.Helpers.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\System.Web.Mvc.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\System.Web.Optimization.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\System.Web.Razor.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\System.Web.WebPages.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\WebActivatorEx.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\WebGrease.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.pdb
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\MidTermSolution.DAL.pdb
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\MidTermSolution.Models.pdb
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\System.Web.Helpers.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\System.Web.Mvc.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\System.Web.Optimization.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\System.Web.Razor.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\System.Web.WebPages.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Newtonsoft.Json.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\EntityFramework.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Owin.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\obj\Debug\WebUI.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\WebUI\obj\Debug\WebUI.pdb
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\WebUI.dll.config
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\WebUI.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\WebUI.pdb
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Antlr3.Runtime.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\EntityFramework.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\MidTermSolution.DAL.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\MidTermSolution.Models.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Newtonsoft.Json.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Owin.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\System.Web.Helpers.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\System.Web.Mvc.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\System.Web.Optimization.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\System.Web.Razor.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\System.Web.WebPages.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\WebActivatorEx.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\WebGrease.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.pdb
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\MidTermSolution.DAL.pdb
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\MidTermSolution.Models.pdb
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\System.Web.Helpers.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\System.Web.Mvc.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\System.Web.Optimization.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\System.Web.Razor.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\System.Web.WebPages.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Newtonsoft.Json.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\EntityFramework.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\obj\Debug\WebUI.dll
+C:\Users\dredgedorlok\Desktop\MidTermSolution\WebUI\obj\Debug\WebUI.pdb
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\WebUI.dll.config
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\WebUI.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\WebUI.pdb
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Antlr3.Runtime.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\EntityFramework.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\MidTermSolution.DAL.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\MidTermSolution.Models.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Newtonsoft.Json.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Owin.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\System.Web.Helpers.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\System.Web.Mvc.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\System.Web.Optimization.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\System.Web.Razor.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\System.Web.WebPages.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\WebActivatorEx.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\WebGrease.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.pdb
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\MidTermSolution.DAL.pdb
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\MidTermSolution.Models.pdb
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\System.Web.Helpers.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\System.Web.Mvc.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\System.Web.Optimization.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\System.Web.Razor.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\System.Web.WebPages.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Newtonsoft.Json.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\EntityFramework.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\obj\Debug\WebUI.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\obj\Debug\WebUI.pdb
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\MidTermSolution.Services.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\WebUI\bin\MidTermSolution.Services.pdb
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\WebUI.dll.config
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\WebUI.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\WebUI.pdb
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Antlr3.Runtime.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\EntityFramework.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Owin.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\MidTermSolution.DAL.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\MidTermSolution.Models.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\MidTermSolution.Services.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Newtonsoft.Json.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Owin.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\System.Web.Helpers.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\System.Web.Mvc.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\System.Web.Optimization.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\System.Web.Razor.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\System.Web.WebPages.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\WebActivatorEx.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\WebGrease.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.pdb
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\MidTermSolution.DAL.pdb
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\MidTermSolution.Models.pdb
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\MidTermSolution.Services.pdb
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\System.Web.Helpers.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\System.Web.Mvc.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\System.Web.Optimization.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\System.Web.Razor.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\System.Web.WebPages.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Newtonsoft.Json.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\EntityFramework.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Owin.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\obj\Debug\WebUI.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\WebUI\obj\Debug\WebUI.pdb
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\WebUI.dll.config
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\WebUI.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\WebUI.pdb
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Antlr3.Runtime.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\EntityFramework.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\MidTermSolution.DAL.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\MidTermSolution.Models.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\MidTermSolution.Services.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Newtonsoft.Json.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Owin.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\System.Web.Helpers.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\System.Web.Mvc.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\System.Web.Optimization.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\System.Web.Razor.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\System.Web.WebPages.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\WebActivatorEx.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\WebGrease.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.pdb
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\MidTermSolution.DAL.pdb
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\MidTermSolution.Models.pdb
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\MidTermSolution.Services.pdb
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\System.Web.Helpers.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\System.Web.Mvc.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\System.Web.Optimization.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\System.Web.Razor.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\System.Web.WebPages.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Newtonsoft.Json.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\EntityFramework.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\obj\Debug\WebUI.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\WebUI\obj\Debug\WebUI.pdb
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\WebUI.dll.config
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\WebUI.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\WebUI.pdb
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Antlr3.Runtime.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\EntityFramework.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Owin.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Web.Infrastructure.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\MidTermSolution.DAL.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\MidTermSolution.Models.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\MidTermSolution.Services.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Newtonsoft.Json.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Owin.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\System.Web.Helpers.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\System.Web.Mvc.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\System.Web.Optimization.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\System.Web.Razor.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\System.Web.WebPages.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\WebActivatorEx.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\WebGrease.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.pdb
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\MidTermSolution.DAL.pdb
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\MidTermSolution.Models.pdb
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\MidTermSolution.Services.pdb
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\System.Web.Helpers.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\System.Web.Mvc.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\System.Web.Optimization.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\System.Web.Razor.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\System.Web.WebPages.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Antlr3.Runtime.pdb
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Newtonsoft.Json.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\EntityFramework.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Owin.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\obj\Debug\WebUI.dll
+F:\Conestoga\SEMESTER_2\PROG2230-16W\15-mar-2016\MidTermSolution\WebUI\obj\Debug\WebUI.pdb
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\WebUI.dll.config
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\WebUI.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\WebUI.pdb
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Antlr3.Runtime.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\EntityFramework.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Owin.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\MidTermSolution.DAL.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\MidTermSolution.Models.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\MidTermSolution.Services.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Newtonsoft.Json.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Owin.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\System.Web.Helpers.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\System.Web.Mvc.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\System.Web.Optimization.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\System.Web.Razor.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\System.Web.WebPages.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\WebActivatorEx.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\WebGrease.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.pdb
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\MidTermSolution.DAL.pdb
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\MidTermSolution.Models.pdb
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\MidTermSolution.Services.pdb
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\System.Web.Helpers.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\System.Web.Mvc.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\System.Web.Optimization.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\System.Web.Razor.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\System.Web.WebPages.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Antlr3.Runtime.pdb
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Newtonsoft.Json.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\EntityFramework.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Owin.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\obj\Debug\WebUI.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\WebUI\obj\Debug\WebUI.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\WebUI.dll.config
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\WebUI.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\WebUI.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Antlr3.Runtime.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\EntityFramework.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Owin.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\MidTermSolution.DAL.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\MidTermSolution.Models.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\MidTermSolution.Services.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Newtonsoft.Json.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Owin.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\System.Web.Helpers.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\System.Web.Mvc.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\System.Web.Optimization.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\System.Web.Razor.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\System.Web.WebPages.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\WebActivatorEx.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\WebGrease.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\MidTermSolution.DAL.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\MidTermSolution.Models.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\MidTermSolution.Services.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\System.Web.Helpers.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\System.Web.Mvc.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\System.Web.Optimization.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\System.Web.Razor.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\System.Web.WebPages.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Antlr3.Runtime.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Newtonsoft.Json.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\EntityFramework.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Owin.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\obj\Debug\WebUI.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\WebUI\obj\Debug\WebUI.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\WebUI.dll.config
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\WebUI.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\WebUI.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Antlr3.Runtime.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\EntityFramework.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\MidTermSolution.DAL.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\MidTermSolution.Models.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\MidTermSolution.Services.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Newtonsoft.Json.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Owin.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.Helpers.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.Mvc.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.Optimization.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.Razor.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.WebPages.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\WebActivatorEx.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\WebGrease.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\MidTermSolution.DAL.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\MidTermSolution.Models.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\MidTermSolution.Services.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.Helpers.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.Mvc.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.Optimization.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.Razor.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.WebPages.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Antlr3.Runtime.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Newtonsoft.Json.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\EntityFramework.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\obj\Debug\WebUI.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\obj\Debug\WebUI.pdb
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\WebUI.dll.config
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\WebUI.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\WebUI.pdb
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Antlr3.Runtime.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\EntityFramework.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\MidTermSolution.DAL.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\MidTermSolution.Models.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\MidTermSolution.Services.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Newtonsoft.Json.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Owin.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.Helpers.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.Mvc.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.Optimization.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.Razor.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.WebPages.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\WebActivatorEx.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\WebGrease.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.pdb
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\MidTermSolution.DAL.pdb
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\MidTermSolution.Models.pdb
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\MidTermSolution.Services.pdb
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.Helpers.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.Mvc.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.Optimization.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.Razor.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.WebPages.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Antlr3.Runtime.pdb
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Newtonsoft.Json.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\EntityFramework.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\obj\Debug\WebUI.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\WebUI\obj\Debug\WebUI.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\WebUI.dll.config
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\WebUI.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\WebUI.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Antlr3.Runtime.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\EntityFramework.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\MidTermSolution.DAL.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\MidTermSolution.Models.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\MidTermSolution.Services.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Newtonsoft.Json.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Owin.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.Helpers.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.Mvc.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.Optimization.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.Razor.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.WebPages.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\WebActivatorEx.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\WebGrease.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\MidTermSolution.DAL.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\MidTermSolution.Models.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\MidTermSolution.Services.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.Helpers.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.Mvc.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.Optimization.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.Razor.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.WebPages.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Antlr3.Runtime.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Newtonsoft.Json.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\EntityFramework.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\obj\Debug\WebUI.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\obj\Debug\WebUI.pdb
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\WebUI.dll.config
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\WebUI.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\WebUI.pdb
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Antlr3.Runtime.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\EntityFramework.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\MidTermSolution.DAL.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\MidTermSolution.Models.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\MidTermSolution.Services.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Newtonsoft.Json.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Owin.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.Helpers.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.Mvc.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.Optimization.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.Razor.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.WebPages.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\WebActivatorEx.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\WebGrease.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.pdb
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\MidTermSolution.DAL.pdb
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\MidTermSolution.Models.pdb
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\MidTermSolution.Services.pdb
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.Helpers.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.Mvc.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.Optimization.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.Razor.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.WebPages.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Antlr3.Runtime.pdb
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Newtonsoft.Json.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\EntityFramework.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\obj\Debug\WebUI.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\WebUI\obj\Debug\WebUI.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\WebUI.dll.config
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\WebUI.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\WebUI.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Antlr3.Runtime.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\EntityFramework.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Owin.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\MidTermSolution.DAL.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\MidTermSolution.Models.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\MidTermSolution.Services.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Newtonsoft.Json.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Owin.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\System.Web.Helpers.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\System.Web.Mvc.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\System.Web.Optimization.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\System.Web.Razor.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\System.Web.WebPages.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\WebActivatorEx.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\WebGrease.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\MidTermSolution.DAL.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\MidTermSolution.Models.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\MidTermSolution.Services.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\System.Web.Helpers.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\System.Web.Mvc.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\System.Web.Optimization.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\System.Web.Razor.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\System.Web.WebPages.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Antlr3.Runtime.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Newtonsoft.Json.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\EntityFramework.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Owin.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\obj\Debug\WebUI.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\WebUI\obj\Debug\WebUI.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\WebUI.dll.config
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\WebUI.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\WebUI.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Antlr3.Runtime.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\EntityFramework.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Owin.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\MidTermSolution.DAL.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\MidTermSolution.Models.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\MidTermSolution.Services.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Newtonsoft.Json.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Owin.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\System.Web.Helpers.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\System.Web.Mvc.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\System.Web.Optimization.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\System.Web.Razor.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\System.Web.WebPages.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\WebActivatorEx.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\WebGrease.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\MidTermSolution.Contracts.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\MidTermSolution.DAL.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\MidTermSolution.Models.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\MidTermSolution.Services.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Practices.ServiceLocation.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\System.Web.Helpers.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\System.Web.Mvc.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\System.Web.Optimization.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\System.Web.Razor.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\System.Web.WebPages.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\System.Web.WebPages.Razor.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Antlr3.Runtime.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Newtonsoft.Json.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\EntityFramework.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\EntityFramework.SqlServer.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Owin.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Google.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\obj\Debug\WebUI.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\WebUI\obj\Debug\WebUI.pdb

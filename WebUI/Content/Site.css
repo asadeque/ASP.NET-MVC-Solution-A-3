@@ -1,0 +1,245 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color:cyan;
+    width:auto;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    color:darkblue;
+    /*line-height:200%;*/
+}
+
+.body-content table{
+    /*line-height:200%;*/
+}
+
+.body-content img{
+    max-height:25%;
+    width:auto;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists
+   will truncate terms that are too long to fit in the left column
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+body {
+  padding-top: 100px;
+}
+
+section {
+  /*padding: 30px 0;*/
+}
+
+.section-grey{
+  background: #f4f4f4;
+}
+
+.section-primary{
+  background: #0383c0; /*for purple: 3d0899*, for blue: 0383c0 */
+  color:#fff;
+  padding: 70px 0;
+  text-shadow: 2px 2px #000000;
+}
+
+.section-primary img {
+  padding-top: 40px;
+  margin:0 auto;
+}
+
+/*.primary-left img{
+  padding-top: 50 px;
+}*/
+
+.section-secondary{
+  background: #3d0899; /*for purple: #3d0899; for orange: #e44d26;*/
+  color:#fff;
+  padding: 50px 0;
+  text-shadow: 2px 2px #000000;
+}
+
+.slogan {
+  text-align: center;
+}
+
+.slogan h1 {
+  font-size: 50px;
+  margin-bottom: 25px;
+}
+
+.slogan p {
+  font-size: 20px;
+}
+.slogan a{
+  margin-top: 20px;
+}
+
+.nav{
+  margin-top: 18px;
+}
+
+.navbar{
+  min-height: 100px;
+  margin-bottom:0 !important;
+  border:none;
+}
+
+.navbar-brand{
+  height: auto;
+  padding-top: 15px;
+  margin: 0;
+}
+
+.navbar-nav{
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-nav li{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.navbar-nav li > a{
+  padding: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  /*border-right: 1px solid #ccc;*/
+  text-transform: uppercase;
+}
+
+.navbar-nav li > a span{
+  margin: 5px 0 0 0;
+  padding: 0;
+  font-size: 14px;
+  display: block;
+  font-family: 'Oswald', sans-serif;
+  font-weight: normal;
+  text-transform: none;
+}
+
+.navbar-nav a:hover,  .navbar-default .navbar-nav> .active> a, .navbar-default .navbar-nav > .active >a:hover {
+  background: #0383c0 !important;
+  color: #fff !important;
+
+}
+
+.jumbotron{
+  margin: 0 !important;
+  min-height: 400px;
+  padding-left: 80px;
+  background: url(../img/thumbs/CM1.jpg) no-repeat;
+  color: black;
+  text-shadow: 1px 1px #000000;
+  max-height: inherit;
+}
+
+h1, h2, h3{
+  text-transform: uppercase;
+  font-family: 'Oswald', sans-serif;
+}
+.jumbotron h1{
+  font-size: 35px;
+}
+
+.jumbotron img{
+  padding-top: 40px;
+}
+.fa-color{
+  color: #0383c0!important;
+  /*3d0899, for the purple, c30f0f for the red; bg colour on icon buttons*/
+}
+
+.iconRow {
+  margin: 0 !important;
+  height: auto;
+  padding-left: 20px;
+  padding-top: 10px;
+  background: url(../img/rocketMan.png) no-repeat  ;
+  /*min-height: 450px;*/
+  width: auto;
+  color: #fff;
+  text-shadow: 2px 2px #000000;
+  /*text-align: center;*/
+}
+.iconRow img{
+  margin-bottom: 15px;
+}
+
+.feature-list li{
+  list-style: none;
+  font-size: 18px;
+  line-height: 2em;
+  letter-spacing:normal;
+  word-spacing: normal;
+}
+
+footer{
+  text-align: center;
+  height: 60px;
+  background: #f4f4f4;
+  padding-top: 20px;
+  color: #222;
+}
+
+@media(max-width:990px){
+  .navbar-header{
+    float: none;
+  }
+  .navbar-left, .navbar-right{
+    float:none !important;
+  }
+  .navbar-toggle{
+    diplay:block;
+  }
+  .navbar-collapse{
+    border-top: 1px; solid transparent;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+  }
+  .navbar-fixed-top{
+    top: 0;
+    border-width: 0 0 1px;
+  }
+  .navbar-collapse.collapse{
+    display: none !important;
+  }
+  .navbar-nav{
+    float: none;
+    margin-top: 7.5px;
+  }
+  .navbar-nav >li{
+    float: none;
+  }
+  .navbar-nav >li >a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-right: none;
+  }
+  .collapse.in{
+    display: block !important;
+  }
+
+}
+
+@media(max-width:768px){
+  .jumbotron{
+    min-height: 300px;
+  }
+  .jumbotron img{
+    display:none;
+  }
+}
+

@@ -1,0 +1,224 @@
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.dll.config
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.pdb
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Contracts.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Models.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Contracts.pdb
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Models.pdb
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.csprojResolveAssemblyReference.cache
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.Initial.resources
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.AddCostPrice.resources
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketAdded.resources
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.csproj.GenerateResource.Cache
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.dll
+C:\Users\dredgedorlok\Documents\Visual Studio 2013\Projects\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.pdb
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.dll.config
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.pdb
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Contracts.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Models.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Contracts.pdb
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Models.pdb
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.csprojResolveAssemblyReference.cache
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.dll
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.pdb
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.Initial.resources
+C:\Users\sahyslop\Desktop\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.csproj.GenerateResource.Cache
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.dll.config
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.pdb
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Contracts.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Models.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Contracts.pdb
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Models.pdb
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.csprojResolveAssemblyReference.cache
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.Initial.resources
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketModified.resources
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketItemModified.resources
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketItemModifiedVirtualProduct.resources
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.csproj.GenerateResource.Cache
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.dll
+C:\Users\dredgedorlok\Desktop\00 - SecondHalf\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.pdb
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.dll.config
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.pdb
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Contracts.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Models.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Contracts.pdb
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Models.pdb
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.csprojResolveAssemblyReference.cache
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.Initial.resources
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketModified.resources
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketItemModified.resources
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketItemModifiedVirtualProduct.resources
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.csproj.GenerateResource.Cache
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.dll
+C:\Users\msadeque8063\Desktop\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.pdb
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.dll.config
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.pdb
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Contracts.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Models.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Contracts.pdb
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Models.pdb
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.csprojResolveAssemblyReference.cache
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.Initial.resources
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketModified.resources
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketItemModified.resources
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketItemModifiedVirtualProduct.resources
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.csproj.GenerateResource.Cache
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.dll
+E:\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.dll.config
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Contracts.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Models.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Contracts.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Models.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.csprojResolveAssemblyReference.cache
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.Initial.resources
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketModified.resources
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketItemModified.resources
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketItemModifiedVirtualProduct.resources
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.csproj.GenerateResource.Cache
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_2\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.dll.config
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Contracts.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Models.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Contracts.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Models.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.csprojResolveAssemblyReference.cache
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.Initial.resources
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketModified.resources
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketItemModified.resources
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketItemModifiedVirtualProduct.resources
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.csproj.GenerateResource.Cache
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.pdb
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.dll.config
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.pdb
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Contracts.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Models.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Contracts.pdb
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Models.pdb
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.csprojResolveAssemblyReference.cache
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.Initial.resources
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketModified.resources
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketItemModified.resources
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketItemModifiedVirtualProduct.resources
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.csproj.GenerateResource.Cache
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.dll
+E:\15-mar-2016_A3_Helper_3\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.dll.config
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Contracts.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Models.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Contracts.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Models.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.csprojResolveAssemblyReference.cache
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.Initial.resources
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketModified.resources
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketItemModified.resources
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketItemModifiedVirtualProduct.resources
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.csproj.GenerateResource.Cache
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.pdb
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.dll.config
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.pdb
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Contracts.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Models.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Contracts.pdb
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Models.pdb
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.csprojResolveAssemblyReference.cache
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.Initial.resources
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketModified.resources
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketItemModified.resources
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketItemModifiedVirtualProduct.resources
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.csproj.GenerateResource.Cache
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.dll
+E:\15-mar-2016_A3_Helper_4\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.dll.config
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Contracts.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Models.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Contracts.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Models.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.csprojResolveAssemblyReference.cache
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.Initial.resources
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketModified.resources
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketItemModified.resources
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketItemModifiedVirtualProduct.resources
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.csproj.GenerateResource.Cache
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\15-mar-2016_A3_Helper_5\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.dll.config
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.DAL.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Contracts.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Models.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Contracts.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.DAL\bin\Debug\MidTermSolution.Models.pdb
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.csprojResolveAssemblyReference.cache
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.Initial.resources
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketModified.resources
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketItemModified.resources
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.Contracts.Migrations.BasketItemModifiedVirtualProduct.resources
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.csproj.GenerateResource.Cache
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.dll
+D:\0066C\Conestoga\SEMESTER_2\PROG2230-16W\Assignments\PROG2230_A3_7268963\MidTermSolution\MidTermSolution.DAL\obj\Debug\MidTermSolution.DAL.pdb

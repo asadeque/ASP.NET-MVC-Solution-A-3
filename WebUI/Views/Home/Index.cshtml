@@ -1,0 +1,101 @@
+@model IEnumerable<MidTermSolution.Models.Product>
+@{
+    ViewBag.Title = "Beauty of Ceramics";
+}
+<div><h1>KAS Ceramics Ltd.</h1>
+    <h6>Product in Excellence</h6>
+</div>
+
+<!-- Header Carousel -->
+<header id="myCarousel" class="carousel slide">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+        <div class="item active">
+            <img class="img-responsive img-portfolio img-hover" src="~/img/bc.jpg" width="1150" alt="">
+            @*<div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide One');"></div>*@
+            <div class="carousel-caption">
+                <h2>Bone China</h2>
+            </div>
+        </div>
+        <div class="item">
+            <img class="img-responsive img-portfolio img-hover" src="~/img/ha.jpg" width="1150" alt="">
+            @*<div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Two');"></div>*@
+            <div class="carousel-caption">
+                <h2>High Alumina</h2>
+            </div>
+        </div>
+        <div class="item">
+            <img class="img-responsive img-portfolio img-hover" src="~/img/ivory.jpg" width="1150" alt="">
+            @*<div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Three');"></div>*@
+            <div class="carousel-caption">
+                <h2>Ivory China</h2>
+            </div>
+        </div>
+    </div>
+    <!-- Controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+        <span class="icon-prev"></span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+        <span class="icon-next"></span>
+    </a>
+</header>
+<!-- Header Carousel END -->
+<div class="jumbotron">
+    <h2>Beauty of Ceramics</h2>
+    <p class="lead">KAS Ceramics Limited is the only Porcelain Tableware manufacturing plant in Bangladesh successfully completed the verification of origin by Department of International Negotiations – DEINT, Foreign Trade Secretariat – MDIC of Brazilian Govt.</p>
+    <p><a href="http://www.farr.com.bd/online/index.php" target="_blank" class="btn btn-primary btn-lg">Read more &raquo;</a></p>
+</div>
+<table class="table">
+    <tr></tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <img style="width:25%" src="@item.ImageUrl" alt="@item.ProductDescription" />
+            </td>
+            <td>
+                @Html.ActionLink(item.ProductDescription, "Details", new { id = item.ProductID })
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+        </tr>
+    }
+</table>
+<div class="row">
+    <div class="col-md-4">
+        <h2>PRODUCTS</h2>
+        <p>
+            The brilliant whiteness and superb translucency have positioned KAS ultra white body practical and stunning designs taking Porcelain to new height. Without reducing the mechanical strength, KAS ultra white porcelain is refined to give the user a soft Bone China like feeling. Ultra white porcelain is the result of super integration of the best quality of raw materials like as premium quality New Zealand Kaolin and other additives and the result of innovation in receipt and utilization of supreme human skill. Comparable in quality to the best Porcelain manufacturers, KAS is one of the Globes.
+        </p>
+        <p><a class="btn btn-default" href="~/Products/Index">Read more &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>CUSTOMERS</h2>
+        <p>KAS FINE IVORY is a outcome of the creativity and innovation in Porcelain from its RND. KAS Fine Ivory Tableware is designed to be an affordable luxury gives your tabletop a unique and contemporary look. Exceptional in creamy and translucent body color, design and finish exhibiting the inherent strength and purity feel like as New Bone China!</p>
+        <p><a class="btn btn-default" href="~/Customers/Index">Read more &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>ORDERS</h2>
+        <p>Exuding elegance and finesse to enhance and compliment of your food presentation, each piece also boasts hidden strength about 30% more than normal Porcelain because KAS High Alumina Porcelain body containing about 30% purified Alumina originated from JAPAN. So it can create truly unique and memorable dining experience- time after time.</p>
+        <p><a class="btn btn-default" href="~/Orders/Index">Read more &raquo;</a></p>
+    </div>
+</div>
+<!-- jQuery -->
+<script src="js/jquery.js"></script>
+<!-- Bootstrap Core JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+<!-- Script to Activate the Carousel -->
+<script>
+    $('.carousel').carousel({
+        interval: 2000 //changes the speed
+    })
+</script>

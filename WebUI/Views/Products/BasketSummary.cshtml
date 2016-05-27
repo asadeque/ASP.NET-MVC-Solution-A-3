@@ -1,0 +1,87 @@
+@model IEnumerable<MidTermSolution.Models.BasketItem>
+
+@{
+    ViewBag.Title = "Basket Summary";
+}
+
+<h2>Basket Summary</h2>
+
+    <div class="container">
+        <div class="row margin-top-10">
+            <div class="col-md-2 col-md-push-1 col-xs-12">
+                <a href="@Url.Action("BasketItemAdd", "Products")" class="btn btn-primary pull-right margin-top-10">
+                    Add Products &nbsp;
+                    <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+                </a>
+            </div>
+        </div>
+    </div>
+<table class="table">
+    <tr>
+        <th>
+            Image
+        </th>
+        <th>
+           Product Description
+        </th>
+        <th>
+            Price
+        </th>
+        <th>
+            Quantity
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <img style="width:15%" src="@item.Product.ImageUrl" alt="@item.Product.ProductDescription" />
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Product.ProductDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Product.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td class="col-xs-4">
+                <div class="col-md-4 col-xs-12">
+                    <a href="@Url.Action("BasketItemDetails", "Products", new { id = item.ProductID })" class="btn btn-primary col-xs-12">
+                        Details
+                        <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
+                    </a>
+                </div>
+                <div class="col-md-4 col-xs-12">
+                    <a href="@Url.Action("EditBasketItem", "Products", new { id = item.BasketItemID })" class="btn btn-primary col-xs-12">
+                        Edit
+                        <span class="glyphicon glyphicon-edit" aria-hidden="true"></span>
+                    </a>
+                </div>
+                <div class="col-md-4 col-xs-12">
+                    <a href="@Url.Action("DeleteFromBasket", "Products", new { id = item.BasketItemID })" class="btn btn-primary col-xs-12">
+                        Remove
+                        <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+                    </a>
+                </div>
+            </td>
+
+    </tr>
+}
+    <tr>
+        <td colspan="2" style="font-weight:bolder; color:red; font-size: medium">
+            Total
+        </td>
+        <td colspan="1" style="font-weight: bolder; color: red; font-size: medium">
+            @ViewBag.AmountInBasket</td>
+        <td colspan="1" style="font-weight: bolder; color: red; font-size: medium">
+            @ViewBag.QuantityInBasket
+        </td>
+
+    </tr>
+
+</table>
